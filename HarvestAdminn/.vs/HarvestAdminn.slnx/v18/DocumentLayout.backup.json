@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|c:\\users\\thinkpad\\documents\\project\\theharvest\\harvestadminn\\harvestadminn\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB9CE5-5171-835B-1E3B-41F6B48E8D03}|HarvestAdminn\\HarvestAdminn.csproj|solutionrelative:harvestadminn\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HarvestAdminn\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T11:47:06.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Services\\AuthService.cs",
+              "RelativeToolTip": "HarvestAdminn\\Services\\AuthService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T12:40:17.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "HarvestAdminn\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T12:41:15.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Models\\LoginModel.cs",
+              "RelativeToolTip": "HarvestAdminn\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T12:32:19.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "HarvestAdminn\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-23T12:42:45.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HarvestAdminn\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-23T11:48:54.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\appsettings.json",
+              "RelativeDocumentMoniker": "HarvestAdminn\\appsettings.json",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\appsettings.json",
+              "RelativeToolTip": "HarvestAdminn\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-23T12:36:34.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Program.cs",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Program.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Program.cs",
+              "RelativeToolTip": "HarvestAdminn\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABMAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T11:46:45.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "HarvestAdminn\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-23T11:52:38.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "HarvestAdminn\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-23T11:52:24.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HarvestAdminn\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T11:47:40.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "HarvestAdminn\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T11:47:33.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "HarvestAdminn\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T11:47:18.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "HarvestAdminn\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T11:47:13.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BannerController.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Controllers\\BannerController.cs",
+              "RelativeDocumentMoniker": "HarvestAdminn\\Controllers\\BannerController.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\Documents\\project\\TheHarvest\\HarvestAdminn\\HarvestAdminn\\Controllers\\BannerController.cs",
+              "RelativeToolTip": "HarvestAdminn\\Controllers\\BannerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T11:47:10.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
